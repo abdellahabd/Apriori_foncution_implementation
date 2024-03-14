@@ -1,0 +1,997 @@
+married,gender,ethnicity,enroll,program,visits_category,exposure_category,children_category,age_category,income_category,access_category
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,61-90,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Child,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,10+,91-120,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+yes,female,cauc,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,61-90,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,10+,91-120,One,Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+yes,female,cauc,yes,afdc,0-1,61-90,Two,Child,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+yes,female,other,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+yes,female,other,yes,afdc,between 2 and 6,91-120,Four or more,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 7 and 10,61-90,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Young Adult,Low,
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Middle-Aged,Low,Low Access
+yes,female,other,yes,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,other,yes,afdc,between 7 and 10,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+yes,female,cauc,yes,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Three,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Middle-Aged,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Three,Middle-Aged,Low,
+no,female,other,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,61-90,Three,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,61-90,One,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,61-90,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Middle-Aged,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Three,Adult,Low,Low Access
+yes,female,other,yes,afdc,between 2 and 6,91-120,Two,Middle-Aged,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+yes,female,other,yes,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Three,Adult,Low,Low Access
+yes,female,other,yes,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Four or more,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,61-90,Four or more,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Middle-Aged,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+yes,female,other,yes,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+yes,female,other,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+yes,female,cauc,yes,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+yes,female,cauc,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,61-90,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+yes,female,other,yes,afdc,0-1,91-120,Four or more,Middle-Aged,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,
+no,female,cauc,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,61-90,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Child,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Middle-Aged,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,61-90,One,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,male,other,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+yes,female,other,yes,afdc,0-1,91-120,Four or more,Middle-Aged,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,male,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+yes,female,other,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 7 and 10,91-120,Three,Young Adult,Low,Low Access
+yes,female,other,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 7 and 10,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Child,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,Four or more,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,31-60,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Three,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 7 and 10,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,10+,91-120,Two,Young Adult,Low,
+yes,female,other,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,other,yes,afdc,between 7 and 10,91-120,Three,Adult,Low,
+yes,female,other,yes,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,other,yes,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Adult,Low,
+yes,female,other,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+yes,female,other,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+yes,female,cauc,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+yes,female,other,yes,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,10+,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,yes,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Four or more,Adult,Low,
+no,female,cauc,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Middle-Aged,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Child,Low,
+yes,female,cauc,yes,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,male,cauc,yes,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+yes,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+yes,female,cauc,yes,afdc,between 2 and 6,91-120,One,Middle-Aged,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Adult,Low,Low Access
+yes,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+yes,male,cauc,yes,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,yes,afdc,between 2 and 6,91-120,Two,Child,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,between 2 and 6,91-120,Three,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,yes,afdc,0-1,31-60,Two,Young Adult,Low,Low Access
+no,female,other,yes,afdc,0-1,91-120,Two,Middle-Aged,Low,Low Access
+no,female,cauc,yes,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Four or more,Young Adult,Low,Low Access
+no,male,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,91-120,One,Adult,Low,Low Access
+yes,female,other,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,
+no,female,cauc,no,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,male,cauc,no,afdc,0-1,91-120,Two,Adult,Low,
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,male,cauc,no,afdc,between 7 and 10,91-120,Two,Adult,Low,
+no,female,cauc,no,afdc,0-1,91-120,Three,Young Adult,Low,
+no,female,cauc,no,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Three,Young Adult,Low,
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,
+no,female,other,no,afdc,between 7 and 10,91-120,Two,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,male,cauc,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,other,no,afdc,between 7 and 10,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,other,no,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,male,cauc,no,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,31-60,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,91-120,One,Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+yes,female,cauc,no,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+yes,female,cauc,no,afdc,between 2 and 6,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Four or more,Middle-Aged,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Middle-Aged,Low,
+no,female,other,no,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,61-90,One,Adult,Low,Low Access
+no,female,other,no,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+yes,female,other,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,61-90,Three,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+yes,female,other,no,afdc,between 2 and 6,61-90,Four or more,Adult,Low,Low Access
+no,female,other,no,afdc,between 2 and 6,91-120,Four or more,Adult,Low,Low Access
+yes,female,other,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+yes,female,other,no,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,10+,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,61-90,Two,Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+yes,male,cauc,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,61-90,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,61-90,Two,Child,Low,
+no,female,other,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,other,no,afdc,between 2 and 6,91-120,One,Middle-Aged,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,other,no,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Four or more,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+yes,female,other,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,61-90,Four or more,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,One,Middle-Aged,Low,
+no,female,cauc,no,afdc,between 7 and 10,91-120,Two,Young Adult,Low,Low Access
+no,male,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Middle-Aged,Low,
+no,female,other,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+yes,male,cauc,no,afdc,0-1,61-90,Two,Middle-Aged,Low,Low Access
+yes,male,other,no,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+yes,male,other,no,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+yes,female,other,no,afdc,between 2 and 6,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,61-90,Four or more,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,91-120,Four or more,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+yes,female,other,no,afdc,between 7 and 10,91-120,Three,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,61-90,Four or more,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Three,Adult,Low,Low Access
+yes,female,cauc,no,afdc,between 2 and 6,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Three,Adult,Low,Low Access
+no,female,other,no,afdc,10+,91-120,One,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,other,no,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,no,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,other,no,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,between 2 and 6,91-120,Two,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+yes,female,other,no,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,other,no,afdc,between 2 and 6,91-120,Three,Adult,Low,Low Access
+no,female,other,no,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+yes,female,other,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Two,Young Adult,Low,
+no,female,cauc,no,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Child,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,61-90,Two,Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,61-90,Four or more,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,91-120,One,Middle-Aged,Low,
+yes,female,other,no,afdc,0-1,91-120,One,Middle-Aged,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+yes,female,other,no,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Four or more,Young Adult,Low,Low Access
+yes,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,61-90,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Four or more,Young Adult,Low,Low Access
+no,male,other,no,afdc,0-1,61-90,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,61-90,Three,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,One,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,One,Child,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Four or more,Adult,Low,
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+yes,male,other,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Three,Adult,Low,
+yes,female,other,no,afdc,0-1,91-120,One,Middle-Aged,Low,
+no,female,other,no,afdc,between 2 and 6,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+yes,female,other,no,afdc,0-1,91-120,Two,Middle-Aged,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,91-120,Three,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,other,no,afdc,between 2 and 6,91-120,Four or more,Young Adult,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Three,Adult,Low,
+no,female,cauc,no,afdc,0-1,91-120,Three,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 2 and 6,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,91-120,One,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Four or more,Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Child,Low,Low Access
+no,female,other,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Adult,Low,Low Access
+no,female,cauc,no,afdc,between 7 and 10,91-120,One,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Two,Young Adult,Low,Low Access
+no,female,cauc,no,afdc,0-1,91-120,Three,Young Adult,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,One,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,between 2 and 6,91-120,Two,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,One,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,61-90,None,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,10+,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,other,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,Three,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,10+,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,0-1,61-90,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,between 2 and 6,61-90,None,Middle-Aged,Low,Low Access
+no,male,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,male,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,Two,Senior,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,
+yes,male,other,yes,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+yes,male,other,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,0-1,91-120,Two,Middle-Aged,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,One,Middle-Aged,Low,
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,10+,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,Four or more,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,0-1,61-90,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,Two,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,Four or more,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,Two,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,Three,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,Four or more,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+yes,male,other,yes,ssi,0-1,91-120,Four or more,Senior,Low,Low Access
+no,male,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,0-1,91-120,Four or more,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,male,other,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,One,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,10+,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,other,yes,ssi,0-1,91-120,One,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,One,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,Four or more,Middle-Aged,Low,Low Access
+yes,female,cauc,yes,ssi,0-1,91-120,One,Middle-Aged,Low,Low Access
+yes,female,other,yes,ssi,between 2 and 6,91-120,Two,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+yes,female,cauc,yes,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+yes,female,other,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,One,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,Two,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,Two,Senior,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,other,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,0-1,91-120,One,Senior,Low,Low Access
+no,male,cauc,yes,ssi,0-1,61-90,None,Senior,Low,Low Access
+yes,male,other,yes,ssi,between 2 and 6,61-90,Two,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,other,yes,ssi,0-1,61-90,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,61-90,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,between 7 and 10,91-120,Three,Middle-Aged,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,61-90,Four or more,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,0-1,91-120,One,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,between 2 and 6,91-120,Three,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,61-90,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,between 2 and 6,61-90,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,other,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 2 and 6,61-90,None,Senior,Low,Low Access
+no,female,other,yes,ssi,between 7 and 10,91-120,One,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,male,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,One,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,yes,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,female,cauc,yes,ssi,between 2 and 6,91-120,None,Senior,Low,
+no,female,cauc,yes,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+yes,female,other,no,ssi,between 2 and 6,91-120,One,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,Three,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,Two,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,Two,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,0-1,91-120,One,Middle-Aged,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,Two,Senior,Low,Low Access
+no,male,cauc,no,ssi,10+,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,no,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,One,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,no,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,female,cauc,no,ssi,between 2 and 6,91-120,One,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,61-90,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,Three,Senior,Low,Low Access
+yes,male,cauc,no,ssi,0-1,61-90,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,
+yes,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,
+yes,female,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,Four or more,Senior,Low,
+no,female,cauc,no,ssi,10+,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Senior,Low,
+no,female,cauc,no,ssi,between 2 and 6,61-90,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,between 7 and 10,91-120,None,Middle-Aged,Low,Low Access
+no,male,other,no,ssi,0-1,91-120,Three,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,other,no,ssi,between 7 and 10,91-120,Two,Senior,Low,Low Access
+no,male,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,Three,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,0-1,91-120,Three,Senior,Low,Low Access
+no,female,cauc,no,ssi,10+,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,61-90,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,Four or more,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,61-90,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,61-90,None,Senior,Low,Low Access
+yes,female,cauc,no,ssi,between 2 and 6,91-120,Three,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,other,no,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,other,no,ssi,10+,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,Three,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,0-1,91-120,One,Senior,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,Two,Senior,Low,Low Access
+yes,male,other,no,ssi,0-1,91-120,Four or more,Middle-Aged,Low,Low Access
+yes,male,other,no,ssi,0-1,91-120,One,Middle-Aged,Low,Low Access
+yes,male,other,no,ssi,0-1,91-120,None,Middle-Aged,Low,
+yes,male,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,between 2 and 6,91-120,Four or more,Senior,Low,Low Access
+yes,male,other,no,ssi,0-1,61-90,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,
+no,male,other,no,ssi,0-1,91-120,Four or more,Senior,Low,Low Access
+yes,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,One,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,Three,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,Three,Senior,Low,Low Access
+yes,female,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,between 7 and 10,91-120,One,Senior,Low,Low Access
+yes,female,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,Three,Middle-Aged,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+yes,female,other,no,ssi,0-1,91-120,Three,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,Four or more,Senior,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,61-90,Two,Senior,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,Three,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,Three,Middle-Aged,Low,Low Access
+yes,female,other,no,ssi,between 2 and 6,91-120,Three,Senior,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,female,other,no,ssi,0-1,91-120,Three,Middle-Aged,Low,Low Access
+yes,female,cauc,no,ssi,between 7 and 10,61-90,None,Middle-Aged,Low,Low Access
+yes,female,other,no,ssi,0-1,91-120,Three,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,61-90,None,Senior,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,between 2 and 6,91-120,Three,Senior,Low,Low Access
+yes,male,other,no,ssi,0-1,91-120,One,Senior,Low,Low Access
+yes,male,other,no,ssi,between 2 and 6,91-120,Three,Senior,Low,Low Access
+no,male,other,no,ssi,between 2 and 6,91-120,Two,Senior,Low,Low Access
+yes,male,cauc,no,ssi,0-1,91-120,Four or more,Senior,Low,Low Access
+yes,female,other,no,ssi,between 2 and 6,91-120,Three,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,One,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,One,Senior,Low,Low Access
+yes,female,cauc,no,ssi,0-1,91-120,Three,Middle-Aged,Low,Low Access
+yes,female,other,no,ssi,0-1,91-120,Two,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,One,Senior,Low,Low Access
+yes,female,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,One,Senior,Low,
+no,male,other,no,ssi,between 2 and 6,91-120,One,Senior,Low,Low Access
+yes,male,other,no,ssi,between 2 and 6,91-120,Two,Senior,Low,Low Access
+yes,male,other,no,ssi,between 2 and 6,91-120,One,Senior,Low,Low Access
+no,male,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,Four or more,Middle-Aged,Low,Low Access
+yes,female,other,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,other,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 7 and 10,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,Two,Senior,Low,Low Access
+no,female,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+yes,male,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,male,other,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,0-1,91-120,Two,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,male,cauc,no,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,10+,91-120,None,Senior,Low,Low Access
+yes,female,other,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,male,cauc,no,ssi,0-1,91-120,None,Middle-Aged,Low,Low Access
+yes,male,cauc,no,ssi,0-1,91-120,None,Senior,Low,Low Access
+no,female,cauc,no,ssi,between 7 and 10,91-120,One,Middle-Aged,Low,Low Access
+no,female,cauc,no,ssi,between 2 and 6,91-120,None,Senior,Low,Low Access
+yes,male,other,no,ssi,0-1,91-120,Two,Senior,Low,Low Access
