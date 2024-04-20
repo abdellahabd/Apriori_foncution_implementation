@@ -1,0 +1,61 @@
+Rapport de développement d'un algorithme apriori pour la fouille de données fréquentes dans la dataset medicaid
+
+
+1. Introduction
+
+L'algorithme Apriori est un algorithme de fouille de données fréquentes qui utilise le principe de l'auto-association pour identifier les éléments fréquents dans un ensemble d'éléments.
+
+
+
+2. Objectif
+
+L'objectif de ce rapport est de développer un algorithme Apriori optimisé pour la fouille de données fréquentes dans la dataset medicaid. La dataset medicaid contient des informations sur (...........). L'algorithme Apriori sera utilisé pour identifier (............).
+
+
+
+3. Méthodologie
+
+L'algorithme Apriori est itératif par niveau, et il est composé de 6 étapes principales :
+
+1. Génération des itemsets : Il génère des itemsets en combinant les éléments fréquents de l'ensemble de données.
+
+2. Calcul du support : Il calcule le support de chaque itemset en comptant le nombre d'occurrences de l'ensemble dans l'ensemble de données.
+
+3. Génération des itemsets fréquents : Il génère des itemsets fréquents en filtrant les itemsets dont le support est supérieur à un seuil donné.
+
+4. Génération des règles d'association : Il génère des règles d'association à-partir des itemsets fréquents.
+
+5. Calcul de la confiance : Il calcule la confiance de chaque règle d'association en divisant le support de l'ensemble d'items dans la règle par le support d'itemset antécédent.
+
+6. Filtrage des règles d'association : Il filtre les règles d'association en fonction de la confiance.
+
+
+
+4. Implémentation
+
+L'algorithme Apriori a été implémenté en Python en utilisant la bibliothèque pandas pour le traitement des données et la bibliothèque itertools pour la génération des itemsets. L'algorithme a été testé sur la dataset medicaid et les résultats ont été analysés pour identifier les itemsets fréquents et les règles d'association.
+
+
+
+5. Notre amélioration
+
+L'une des principales limitations de l'algorithme Apriori est qu'il peut être lent sur de grands ensembles de données. Il existe des façons pour résoudre ce problème telque :
+
+- Réduction de la taille de l'ensemble de données en fixant un seuil de support minimum et en utilisant la propriété d'anti-monotonie.
+
+- Optimisation de la génération d'itemsets en utilisant la propriété de fermeture.
+
+
+Dans notre cas, nous avons utilisé des structures de données optimisées pour stocker les itemsets fréquents et les règles d'association, et nous avons parallélisé 3 étapes pour accélérer le processus :
+
+1- Calcul du support : Nous avons utilisé la bibliothèque multiprocessing pour calculer le support de chaque itemset en parallèle.
+
+2- Génération des règles d'association : Nous avons utilisé la bibliothèque joblib pour générer les règles d'association en parallèle.
+
+3- Calcul de la confiance : Nous avons utilisé la bibliothèque dask pour calculer la confiance de chaque règle d'association en parallèle.
+
+
+
+6. Résultats
+
+(Les graphes)

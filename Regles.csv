@@ -1,4 +1,4 @@
-Règles d'association,Concfiance
+Règles d'association,Confiance
 married_no->gender_female,0.9102564102564102
 gender_female->married_no,0.8422301304863582
 married_no->ethnicity_cauc,0.7243589743589743
